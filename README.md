@@ -8,11 +8,11 @@
 
 ## 如何下载本仓库的word文档👇
 
-在仓库的[**Word**](/Word/) 文件夹中，点击教程，在教程的页面找到![download](/image/how_to_down.png)下载
+在仓库的[**Word**](/Word/) 文件夹中，点击教程，在教程的页面找到这个按钮![download](/image/how_to_down.png)进行下载，下载后解压即可
 
-# 下方为教程目录
+## 下方为教程目录
 
-## v2rayN和v2rayNG教程
+### v2rayN和v2rayNG教程
 
 - [Markdown](Markdown/v2ray.md)
 - [Word](/Word/v2ray使用教程(26-01-18).7z)
@@ -20,6 +20,6 @@
 > v2rayN项目地址：<https://github.com/2dust/v2rayN>  
 > v2rayNG项目地址：<https://github.com/2dust/v2rayNG>
 
-## Windows重装系统教程
+### Windows重装系统教程
 
 *此处正在装修中*
