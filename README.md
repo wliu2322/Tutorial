@@ -9,5 +9,5 @@
 
 
 
-> v2rayN项目地址：<https://github.com/2dust/v2rayN>
+> v2rayN项目地址：<https://github.com/2dust/v2rayN>  
 > v2rayNG项目地址：<https://github.com/2dust/v2rayNG>
