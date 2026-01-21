@@ -5,7 +5,9 @@
 1. Markdown，此类型可以直接点击本页面的跳转链接查看，无需下载
 2. Word，此类型需要自己下载本仓库中的docx文件，用Word或WPS查看
 
+## v2rayN和v2rayNG教程
 
+[Markdown](/Markdown/v2ray和v2rayNG教程.md)
 
 
 
