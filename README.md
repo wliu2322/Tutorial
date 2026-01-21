@@ -10,8 +10,11 @@
 ## v2rayN和v2rayNG教程
 
 - [Markdown](Markdown/v2ray.md)
-- [Word](Word/v2ray使用教程.docx)
-
+- Word版暂时搁置
 
 > v2rayN项目地址：<https://github.com/2dust/v2rayN>  
 > v2rayNG项目地址：<https://github.com/2dust/v2rayNG>
+
+## Windows重装系统教程
+
+待编辑
