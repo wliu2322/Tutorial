@@ -7,8 +7,8 @@
 
 ## v2rayN和v2rayNG教程
 
-[Markdown](Markdown/v2ray.md)
-
+- [Markdown](Markdown/v2ray.md)
+- [Word](Word/v2ray使用教程.docx)
 
 
 > v2rayN项目地址：<https://github.com/2dust/v2rayN>  
