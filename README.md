@@ -15,7 +15,7 @@
 ### v2rayN和v2rayNG教程
 
 - [Markdown](Markdown/v2ray.md)
-- [Word](/Word/v2ray使用教程(26-01-18).7z)
+- [Word](/Word/v2ray使用教程(26-02-08).7z)
 
 > v2rayN项目地址：<https://github.com/2dust/v2rayN>  
 > v2rayNG项目地址：<https://github.com/2dust/v2rayNG>
